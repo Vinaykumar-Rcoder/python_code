@@ -1,2 +1,0 @@
-a = "safe a lie"
-print(a)
