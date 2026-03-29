@@ -1,4 +1,4 @@
-# Python Code 🐍
+<!-- # Python Code 🐍
 
 This repository contains my daily Python learning code and notes.
 I am using this repo to track my progress and practice concepts step by step.
@@ -161,3 +161,68 @@ print(f.read())
 ## 📅 Status
 
 🚧 Currently Learning (In Progress)
+ -->
+
+
+
+# 🚀 Python Backend Developer Journey
+
+Hi, I'm Vinay 👋  
+I am currently learning Python Backend Development and building my skills step by step.  
+This repository contains my daily practice, notes, and backend-related learning.
+
+---
+
+## 🎯 Career Goal
+
+Become a **Python Backend Developer** and achieve a 7 LPA job 💼
+
+---
+
+## 📂 Folder Structure
+
+- **basics/**  
+  Core Python concepts (variables, loops, conditions)
+
+- **data_structure/**  
+  Lists, tuples, dictionaries, sets
+
+- **notes/**  
+  Backend concepts and Python theory
+
+- **projects/** *(coming soon)*  
+  Real-world backend projects (API, login system, etc.)
+
+---
+
+## 🧠 What I Am Learning
+
+### 🔹 Python Fundamentals
+- Variables, Data Types  
+- If-Else Conditions  
+- Loops (`for`, `while`)  
+- Functions  
+
+---
+
+### 🔹 Python Advanced
+- OOP (Class & Object) *(in progress)*  
+- File Handling  
+- Exception Handling *(coming soon)*  
+
+---
+
+### 🔹 Backend Development (Next Step 🚀)
+- HTTP / HTTPS basics  
+- REST API development  
+- Flask / Django framework  
+- Database (SQL)  
+
+---
+
+## 📘 Daily Learning Highlights
+
+### ✔️ Variables
+```python
+age = 20
+name = "Vinay"
